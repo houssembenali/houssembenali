@@ -3,7 +3,7 @@ I am a full-stack software engineer based in France, with experience in cloud te
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/houssembenali) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=gitlab&logoColor=white)](https://gitlab.com/houssembenali90) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=gitlab)](https://gitlab.com/houssembenali90) 
 
 
 # 💻 Tech Stack:
